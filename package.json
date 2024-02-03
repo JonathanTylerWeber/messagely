@@ -20,5 +20,8 @@
     "supertest": "^4.0.2"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2"
+  }
 }
